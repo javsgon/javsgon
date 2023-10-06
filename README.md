@@ -5,7 +5,7 @@
 From deciphering sports statistics to tackling business conundrums, I'm eager to dive into diverse challenges and learn along the way.
 
 - ⚽️ I’m interested in Data Analysis and Visualizations, specially in sports .
-As a recent data analyst student with a knack for problem-solving, I'm excited to showcase my journey through an array of analytical endeavors.
+As a recent data analyst graduate with a knack for problem-solving, I'm excited to showcase my journey through an array of analytical endeavors.
 
 ## What's Inside
 - 👀 In this repository, you can expect to find multifaceted challenges:
